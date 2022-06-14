@@ -13,4 +13,4 @@ the number of each book and subject.
 3. List all the books and their information under each subject category respectively.   
 4. Accept the name of the book that the reader wants to borrow.
 # Constraint(s)
-1. Cannot use <string>
+1. Cannot use cstring
