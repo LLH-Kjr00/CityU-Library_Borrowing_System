@@ -1,5 +1,5 @@
 # CityU-Library_Borrowing_System
-The code used for the institution's 3rd assignment, which is a library borrowing system
+The code used for the institution's the 2nd question of 3rd assignment, which is a library borrowing system
 # Technique(s) used
 1. Class
 2. Class array
